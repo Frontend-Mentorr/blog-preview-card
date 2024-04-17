@@ -64,7 +64,7 @@ h1:hover {
 
 ### Continued development
 
-I would like to continue studyng CSS animation, transitions and FX like parallax.
+I would like to continue studying CSS animation, transitions and FX like parallax.
 
 ### Useful resources
 
