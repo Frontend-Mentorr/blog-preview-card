@@ -5,9 +5,9 @@
 *,
 *::before,
 *::after {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 /*-----declaring the root pseudo-class to use global color variables  styles to use them across the html doc-----*/
 :root {
@@ -128,7 +128,7 @@ p {
 
 .author {
   display: flex;
-  align-items: last center;
+  align-items: center;
 }
 
 .photo {
